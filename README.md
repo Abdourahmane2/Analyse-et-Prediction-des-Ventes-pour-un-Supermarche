@@ -116,3 +116,22 @@ Annexes
 Graphiques et tableaux supplémentaires disponibles sur demande.
 
 Code source utilisé pour l’analyse accessible via le Notebook Python.
+
+## prediction 
+apres avoir nettoye les donnes les normaliser j'ai commence par une régression linéaire  pour predire les ventes en utilisant les variables 
+comme , le moyen de paiment , le prix , la ville etc..... . Le modele a obtenu un R² de 90%
+
+## interpretation 
+J'ai fait un graphe comparant les vcaleurs predites et les valeurs réelles. on voit que le modele arrive a resultat satisfesant sauf queleques points eloignes 
+
+## améliorations
+afin d'ameliorer la prediction j'ai utilisé le modele XGBoost et j'ai obtenu une prediction de 99% 
+
+## conclusion 
+Ce projet présente une application concrète et pratique de la modélisation prédictive au travers d’étapes claires :
+
+ - Nettoyage et préparation des données.
+ - Utilisation d’un modèle de base (régression linéaire) 
+ - Mise en œuvre d’un modèle complexe (XGBoost) permettant d’améliorer la performance du modèle.
+ - Analyse et visualisation des résultats afin d’interpréter la performance du modèle.
+L’approche choisis illustre ma capacité à résoudre des problèmes concrets 
