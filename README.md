@@ -4,7 +4,7 @@
 
 Ce rapport présente une analyse exploratoire des données de ventes d’un supermarché. L'objectif principal est d'identifier les performances des succursales, des villes et des catégories de produits, ainsi que les tendances temporelles et comportementales des clients. Les résultats obtenus permettront de dégager des recommandations pour optimiser les ventes et améliorer l’expérience client.
 
-##Présentation des données
+## Présentation des données
 
  - Dimensions du dataset : 1 000 lignes et 17 colonnes.
 
